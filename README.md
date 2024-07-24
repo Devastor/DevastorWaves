@@ -11,7 +11,4 @@ Cross-Platform Compatibility: Run the simulation on both 32-bit and 64-bit syste
 
 ### Demo Video
 
-<video width="600" controls>
-  <source src="DevastorWaves.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+![Wave Simulation](DevastorWaves.gif)
